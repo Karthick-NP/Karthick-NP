@@ -112,30 +112,19 @@
 
 ---
 
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
+  
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthick-NP&theme=tokyonight)
 
-### 📈 GitHub Activity
+![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/most-committed-on?username=Karthick-NP&theme=tokyonight)
 
-![Karthick-NP's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthick-NP&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karthick-NP&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Karthick-NP&theme=tokyo-night)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthick-NP&theme=tokyonight)
 
 </div>
 
 ---
-
----
-
 ## 🎓 Experience
 
 ### **Full Stack Development Intern** @ Optimus Technocrates
