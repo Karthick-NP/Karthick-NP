@@ -154,7 +154,7 @@
 
 **Let's collaborate and build something amazing together!**
 
-<a href="https://github.com/Karthick-NP" target="_blank">
+<a href="https://karthick-np.github.io/karthickn/" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-667eea?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -170,7 +170,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" alt="footer"/>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=karthickjkjk&style=flat-square&color=764ba2" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=Karthick-NP&style=flat-square&color=764ba2" alt="Profile views"/>
   </p>
   
   ⭐ If you find my work interesting, consider giving it a star! It means a lot.
