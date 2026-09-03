@@ -1,178 +1,99 @@
-<h1 align="center">Hi there, I'm KARTHICK N 👋</h1>
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi%20There,%20I'm%20Your%20Name&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" />
 
-<h3 align="center">A passionate Full-Stack Developer from Chennai</h3>
-
-
-<p align="center" style = "margin-right:10px">
-  <a href="https://www.linkedin.com/in/karthicknp"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter" /></a>
-  <a href="mailto:karthickn0305@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /></a>
-  <a href="https://karthick-np.github.io/karthickn/"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=google-chrome" /></a>
-</p>
-
----
-
-### 🚀 About Me
-
-- 🔭 I'm currently working on **Linkurin Job Portal Project**
-- 🌱 I'm currently learning ****
-- 👯 I'm looking to collaborate on **[Type of Project]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[Something interesting about you]**
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <!-- Add/remove badges as needed. Browse more at https://github.com/Ileriayo/markdown-badges -->
-</p>
-
----
-
-### 📊 GitHub Stats
-
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+cool+things+for+the+web;Always+learning+something+new;Open+to+collaboration+%26+new+ideas" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/karthicknp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:karthickn0305@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://karthick-np.github.io/karthickn/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B5CF6" alt="Profile Views" />
+</p>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+```yaml
+name: KARTHICK N
+role: Java Full Stack Developer
+location: Chennai, Tamil Nadu 
+currently_working_on: Linkurin Job Portal
+currently_learning: React
+looking_to_collaborate_on: Backend Project
+fun_fact: I Easily Attached to People
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,tailwind,git,docker,aws,mongodb,postgres,figma&theme=dark" />
+</p>
+
+> Powered by [skillicons.dev](https://skillicons.dev) — fully responsive, scales cleanly on any screen.
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-- **[Project 1 Name](https://github.com/your-username/project-1)** — Short description of what it does.
-- **[Project 2 Name](https://github.com/your-username/project-2)** — Short description of what it does.
-- **[Project 3 Name](https://github.com/your-username/project-3)** — Short description of what it does.
-
----
-
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=google-chrome" /></a>
-</p>
-
----
-
-### 🚀 About Me
-
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm currently learning **[Technology/Skill]**
-- 👯 I'm looking to collaborate on **[Type of Project]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[Something interesting about you]**
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <!-- Add/remove badges as needed. Browse more at https://github.com/Ileriayo/markdown-badges -->
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
 </p>
+
+<br/>
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
 </p>
 
----
+<br/>
 
-### 📌 Featured Projects
-
-- **[Project 1 Name](https://github.com/your-username/project-1)** — Short description of what it does.
-- **[Project 2 Name](https://github.com/your-username/project-2)** — Short description of what it does.
-- **[Project 3 Name](https://github.com/your-username/project-3)** — Short description of what it does.
-
----
-
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=google-chrome" /></a>
-</p>
-
----
-
-### 🚀 About Me
-
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm currently learning **[Technology/Skill]**
-- 👯 I'm looking to collaborate on **[Type of Project]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[Something interesting about you]**
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <!-- Add/remove badges as needed. Browse more at https://github.com/Ileriayo/markdown-badges -->
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+> ⚙️ This animates automatically via a free GitHub Action — setup steps below.
+
+<br/>
+
+## 📌 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" alt="GitHub Streak" />
+  <a href="https://github.com/Karthick-NP/SMS-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Karthick-NP/karthickn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="Top Languages" />
-</p>
+<br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer" />
 
-### 📌 Featured Projects
-
-- **[Project 1 Name](https://github.com/your-username/project-1)** — Short description of what it does.
-- **[Project 2 Name](https://github.com/your-username/project-2)** — Short description of what it does.
-- **[Project 3 Name](https://github.com/your-username/project-3)** — Short description of what it does.
-
----
-
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
+<p align="center"><i>⭐️ Thanks for visiting — feel free to explore my repos and reach out!</i></p>
