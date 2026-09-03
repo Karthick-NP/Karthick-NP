@@ -16,10 +16,6 @@
   <a href="https://karthick-np.github.io/karthickn/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B5CF6" alt="Profile Views" />
-</p>
-
 <br/>
 
 ## 🧑‍💻 About Me
