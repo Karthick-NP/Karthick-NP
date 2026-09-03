@@ -2,15 +2,6 @@
 
 <h3 align="center">A passionate Full-Stack Developer from Chennai</h3>
 
-<p align="center">
-  <a href="<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-
-<h3 align="center">A passionate [Your Role, e.g., Full-Stack Developer] from [Your Location]</h3>
-
-<p align="center">
-  <a href="<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-
-<h3 align="center">A passionate [Your Role, e.g., Full-Stack Developer] from [Your Location]</h3>
 
 <p align="center" style = "margin-right:10px">
   <a href="https://www.linkedin.com/in/karthicknp"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
