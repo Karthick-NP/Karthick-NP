@@ -124,9 +124,7 @@
 
 <table align="center">
   <tr>
-    <td width="50%">
       ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karthick-NP&show_icons=true&theme=tokyonight&v=1)
-    </td>
     <td width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthick-NP&theme=tokyonight&background=0d1117&border=30363d" alt="GitHub Streak" height="200"/>
     </td>
