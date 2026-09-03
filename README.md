@@ -38,8 +38,6 @@ fun_fact: I Easily Attached to People
   <img src="https://skillicons.dev/icons?i=java,js,react,spring,nodejs,html,css,tailwind,git,docker,aws,mongodb,postgres,figma&theme=dark" />
 </p>
 
-> Powered by [skillicons.dev](https://skillicons.dev) — fully responsive, scales cleanly on any screen.
-
 <br/>
 
 ## 📊 GitHub Analytics
