@@ -122,16 +122,16 @@
 
 <table align="center">
   <tr>
-    <td width="50%">
+    <!-- <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=Karthick-NP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d" alt="GitHub Stats" height="200"/>
-    </td>
+    </td> -->
     <td width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthick-NP&theme=tokyonight&background=0d1117&border=30363d" alt="GitHub Streak" height="200"/>
     </td>
   </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthick-NP&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="Activity Graph"/>
+<!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthick-NP&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="Activity Graph"/> -->
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthick-NP&theme=tokyonight" alt="Profile Summary"/>
