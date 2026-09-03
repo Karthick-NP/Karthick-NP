@@ -35,7 +35,7 @@ fun_fact: I Easily Attached to People
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,tailwind,git,docker,aws,mongodb,postgres,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,spring,nodejs,html,css,tailwind,git,docker,aws,mongodb,postgres,figma&theme=dark" />
 </p>
 
 > Powered by [skillicons.dev](https://skillicons.dev) — fully responsive, scales cleanly on any screen.
