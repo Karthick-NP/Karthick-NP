@@ -115,13 +115,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthickjkjk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karthick-NP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karthickjkjk&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthick-NP&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthickjkjk&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthick-NP&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
 
 ---
